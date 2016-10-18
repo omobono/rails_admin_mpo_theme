@@ -1,3 +1,0 @@
-module RailsAdminRstTheme
-  VERSION = "0.0.2"
-end
